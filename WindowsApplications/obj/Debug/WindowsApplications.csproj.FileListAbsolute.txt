@@ -1,0 +1,10 @@
+C:\Users\admin\Source\Repos\WindowsApplications\bin\Debug\WindowsApplications.exe.config
+C:\Users\admin\Source\Repos\WindowsApplications\bin\Debug\WindowsApplications.exe
+C:\Users\admin\Source\Repos\WindowsApplications\bin\Debug\WindowsApplications.pdb
+C:\Users\admin\Source\Repos\WindowsApplications\obj\Debug\WindowsApplications.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\WindowsApplications\obj\Debug\WindowsApplications.Form1.resources
+C:\Users\admin\Source\Repos\WindowsApplications\obj\Debug\WindowsApplications.Properties.Resources.resources
+C:\Users\admin\Source\Repos\WindowsApplications\obj\Debug\WindowsApplications.csproj.GenerateResource.cache
+C:\Users\admin\Source\Repos\WindowsApplications\obj\Debug\WindowsApplications.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\WindowsApplications\obj\Debug\WindowsApplications.exe
+C:\Users\admin\Source\Repos\WindowsApplications\obj\Debug\WindowsApplications.pdb
